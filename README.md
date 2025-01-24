@@ -40,17 +40,6 @@ npm install
 npm start
 The app will open in your default browser at http://localhost:3000.
 
-**Folder Structure**
-
-src/
-├── assets/               # Contains images (e.g., icons)
-├── components/           # React components
-│   ├── Todo.jsx          # Main to-do component
-│   └── TodoItems.jsx     # Component for individual to-do items
-├── App.js                # Root component
-├── index.js              # Entry point
-└── styles/               # CSS or Tailwind configuration (if any)
-
 **Code Overview
 Todo.jsx**
 ->Manages the state of the to-do list using useState.
